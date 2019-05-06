@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d42ce13-d12b-4200-9ee6-84b5159c0e70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mioblog/admin.py" afterDir="false" />
-    </list>
+    <list default="true" id="5d42ce13-d12b-4200-9ee6-84b5159c0e70" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,12 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ivanbortolatto" />
+        <option value="ivan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -142,7 +145,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1629" height="946" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50183153" side_tool="true" weight="0.24981685" />
       <window_info id="DB Browser" order="1" weight="0.19636135" />
@@ -167,6 +169,10 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prova1" />
+    <option name="LAST_COMMIT_MESSAGE" value="prova1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/miosito/settings.py">
